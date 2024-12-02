@@ -22,9 +22,14 @@ This is a covid-19 tracker, developed using react.js, and other other front end 
 The web application will play a key role, both for the future of pandemics and the prevention of current viruses which are affecting the world population so that users and the general public have an insight on the countries and to avoid in order to prevent any further outbreaks and similalrly, to stop any future crisis and tackle them as soon as pssoible.
 
 ## User Story
-
+As a Developer i want to create an application which displays
+basic data and current Covid-19 cases around the world, in order
+to accurately assess the pandemic.
 
 ## Acceptance Criteria 
+* Satisfies all of the preceding acceptance criteria plus the following:
+* All tests pass using the react packageLinks to an external site:
+* The application must have, cases around the globe, a map showcasing the world, and the curent deaths and pateint recovery:
 
 ## Technology Used
 
@@ -39,11 +44,23 @@ The web application will play a key role, both for the future of pandemics and t
 * Google font
 
 ## Installation
+*1- Create a folder for your app, with the name you want
 
+2-Open the Visual Studio Code
+
+3-Write this code in the Terminal to create a project in the assigned directory
+
+npx create-react-app ./
+4. Delete the “src” folder. We are going to create a new of from zero only with the dependencies we need.
+
+5. Create a new folder called “src”
+
+6. Add the index.js and the App.js files
+
+7. Write the basic index from React in the index.js file
 
 ## Screenshots
 
-## Usage
 
 
 ## Deployment
